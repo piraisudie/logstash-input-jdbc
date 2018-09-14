@@ -31,7 +31,7 @@ Columns in the resultset are converted into fields in the event.
 
 This plugin does not come packaged with JDBC driver libraries. The desired
 jdbc driver library must be explicitly passed in to the plugin using the
-`jdbc_driver_library` configuration option.
+`jdbc_driver_library` configuration option..
 
 ==== Scheduling
 
